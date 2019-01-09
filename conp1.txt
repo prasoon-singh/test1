@@ -1,2 +1,6 @@
 test1
+<<<<<<< HEAD
 test tryit out
+=======
+test tryit out1
+>>>>>>> origin/child1
